@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-mailboxvalidator-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if email is from free provider, returns JSON or XML.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-mailboxvalidator-checker",
